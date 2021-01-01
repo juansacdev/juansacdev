@@ -16,7 +16,7 @@ I'm a self-taught person with great passion for learning and sharing knowledge. 
 ### 🎇 I have a personal web site:
 🚀 [juansacok](https://juansacok.github.io/)
 
-<h3 align="center">You can find me on:</h3>
+<h3 align="center">🎇 You can find me on:</h3>
 <p align="center">
   <a href="https://github.com/juansacok" target="blank">
       <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='32'/> 
