@@ -1,8 +1,9 @@
 ![Backend Developer](https://github.com/juansacok/juansacok/blob/main/%7BJuansacOk%7Dbanner.png?raw=true)
-
+---
 ## Hi there 👋🏻👨🏻‍💻, I'm Juan
 
-Un desarrollador de software enfocado al desarrollo backend con el satck MERN
+A software developer focused on backend development, with stack ***MERN***.
+I'm a person self-taught and with great passion for learning and sharing knowledge
 
 ### Skills:
 * 💻 HTML, CSS, JavaScript
@@ -11,5 +12,21 @@ Un desarrollador de software enfocado al desarrollo backend con el satck MERN
 * 😸 Git & GitHub
 
 ---
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/juansacok)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/juansacok/)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/juansacok/)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/JuansacOk)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://juansacok.github.io/)
+<h3 align="center">You can find me on:</h3>
+<p align="center">
+  <a href="https://github.com/juansacok" target="blank">
+      <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='32'/> 
+  </a>
+  <a href="https://www.linkedin.com/in/juansacok/" target="blank">
+      <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='32'> 
+  </a>
+  <a href="https://www.instagram.com/juansacok/" target="blank">
+      <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='32'> 
+  </a>
+  <a href="https://twitter.com/JuansacOk" target="blank">
+      <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' alt='twitter' height='32'> 
+  </a>
+  <a href="https://juansacok.github.io/" target="blank">
+      <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' alt='twitter' height='32'> 
+  </a>
+</p>
