@@ -5,9 +5,11 @@
 ✨ A software developer focused on backend development, with stack ***MERN***.
 I'm a self-taught person with great passion for learning and sharing knowledge. Always learning something new 🚀📚
 
-### Skills:
-* 💻 HTML, CSS, JavaScript
+### Skills & technologies:
+* 💻 HTML, CSS, JavaScript 💛
 * 🌳 MongoDB
+* ⚙ Express
+* 💚 Node.js
 * 🕋 SQL - MySQL
 * 😸 Git & GitHub
 
