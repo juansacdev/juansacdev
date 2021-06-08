@@ -13,8 +13,7 @@ I'm a self-taught person with great passion for learning and sharing knowledge. 
 * 🕋 SQL - MySQL
 * 😸 Git & GitHub
 
-### 🎇 I have a personal web site:
-🚀 [juansacok](https://juansacok.github.io/)
+### 🎇 I have a personal web site: 🚀 [juansacdev](https://juansacdev.github.io/)
 
 <h3 align="center">🎇 You can find me on:</h3>
 <p align="center">
