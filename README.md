@@ -17,23 +17,23 @@ I'm a self-taught person with great passion for learning and sharing knowledge. 
 
 <h3 align="center">🎇 You can find me on:</h3>
 <p align="center">
-  <a href="https://github.com/juansacok" target="blank">
+  <a href="https://github.com/juansacdev" target="blank">
       <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='32'/> 
   </a>
   
-  <a href="https://www.linkedin.com/in/juansacok/" target="blank">
+  <a href="https://www.linkedin.com/in/juansacdev/" target="blank">
       <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='32'> 
   </a>
   
-  <a href="https://www.instagram.com/juansacok/" target="blank">
+  <a href="https://www.instagram.com/juansacdev/" target="blank">
       <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='32'> 
   </a>
   
-  <a href="https://twitter.com/JuansacOk" target="blank">
+  <a href="https://twitter.com/juansacdev" target="blank">
       <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' alt='twitter' height='32'> 
   </a>
   
-  <a href="https://juansacok.github.io/" target="blank">
+  <a href="https://juansacdev.github.io/" target="blank">
       <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' alt='twitter' height='32'> 
   </a>
 </p>
