@@ -37,6 +37,7 @@
   <img src="https://img.shields.io/badge/express%20-%23339933.svg?&style=for-the-badge&logo=express&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/docker%20-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/swagger%20-%236D9A00.svg?&style=for-the-badge&logo=swagger&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;
 </p>
 
 <p align="center">
