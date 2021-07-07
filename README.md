@@ -1,4 +1,4 @@
-![Backend Developer Banner](https://github.com/juansacok/juansacok/blob/main/%7BJuansacOk%7DbannerGitHub.png?raw=true)
+![bannner-juansacdev](https://user-images.githubusercontent.com/66572419/124700112-c4f68500-deb1-11eb-99c2-75c2321c0729.png)
 
 <h1 align="center"> Hi there 👋🏻👨🏻‍💻, I'm Juan</h1>
 
