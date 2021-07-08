@@ -4,6 +4,7 @@
 
 <p align=''>
   Software developer focused on backend development, well-versed in technologies like Javascript, NodeJS, MongoDB, SQL, and more. I create awesome solutions  that help make people's daily lives easier. I continuously pursue more skills and I share my knowledge a cross communities. I'm a self-taught person with great passion for learning and sharing knowledge. Always learning something new 🚀📚
+
 </p>
 
 <p align='center'>
@@ -12,11 +13,11 @@
 
 
 <p align='center'>
-  <a href="https://twitter.com/juansacdev"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/juansacdev"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://platzi.com/@juansacdev/"><img src="https://img.shields.io/badge/Platzi-98CA3F.svg?&style=for-the-badge&logo=platzi&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:juansac.me@gmail.com?subject=Hola%20Juan"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://juansacdev.github.io/"><img src="https://img.shields.io/badge/-Web%20site-green?style=for-the-badge&logo=buddy&logoColor=white" />
+  <a href="https://twitter.com/juansacdev"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" title="Twitter @juansacdev" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/juansacdev"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn @juansacdev"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://platzi.com/@juansacdev/"><img src="https://img.shields.io/badge/Platzi-98CA3F.svg?&style=for-the-badge&logo=platzi&logoColor=white" title="Platzi @juansacdev"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:juansac.me@gmail.com?subject=Hola%20Juan"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" title="juansac.me@gmail.com"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://juansacdev.github.io/"><img src="https://img.shields.io/badge/-Web%20site-green?style=for-the-badge&logo=buddy&logoColor=white" title="Juan Sebastián Agudelo"/>
 </p>
 
 ***
@@ -53,4 +54,24 @@
   <img src="https://img.shields.io/badge/github%20-%23000.svg?&style=for-the-badge&logo=github&logoColor=white" />&nbsp;&nbsp;
 </p>
   
+***
+
+<h3 align="center"> GitHub Stats 📊</h3>
+
+<div align="center">
+  <p>
+  <a href="https://github.com/juansacdev">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juansacdev&theme=dracula&count_private=true&hide=css,blade" alt="juansacdev's GitHub Stats">
+  </a>
+  </p>
+  
+  </br>
+
+  <p>
+  <a href="https://github.com/juansacdev">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=juansacdev&count_private=true&show_icons=true&line_height=27&theme=dracula" alt="juansacdev's GitHub Stats"/>
+  </a>
+  </p>
+    
+</div>
 
