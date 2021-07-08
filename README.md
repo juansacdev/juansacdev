@@ -5,14 +5,14 @@
 <p>
   Software developer focused on backend development, well-versed in technologies like Javascript, NodeJS, GraphQL, MongoDB, MySQL, and more. I create awesome solutions  that help make people's daily lives easier. I continuously pursue more skills and I share my knowledge a cross communities. I'm a self-taught person with great passion for learning and sharing knowledge. Always learning something new 🚀📚
   <ul>
-    <li>Also, I'm a co-organizer at <strong><a href="https://www.macaotech.com/">MacaoTech</a></strong></li>
+    <li>Also, I'm a co-organizer at <strong><a href="https://www.macaotech.com/" target="_blank">MacaoTech</a></strong></li>
     <li>You can contact me via mail: <strong><a href="mailto:juansac.me@gmail.com?subject=Hola%20Juan">juansac.me@gmail.com</a></strong></li>
-    <li>Currently working as Backend Developer in <strong><a href="https://arvolution.com/en/home/">Arvolution</a></strong> using NodeJS and GraphQL</li>
+    <li>Currently working as Backend Developer in <strong><a href="https://arvolution.com/en/home/" target="_blank" >Arvolution</a></strong> using NodeJS and GraphQL</li>
   </ul>
 </p>
 </br>
 
-<p>
+<p align="center">
   <a href="https://twitter.com/juansacdev" target="_blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" title="Twitter @juansacdev" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/juansacdev" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn @juansacdev"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://platzi.com/@juansacdev/" target="_blank"><img src="https://img.shields.io/badge/Platzi-98CA3F.svg?&style=for-the-badge&logo=platzi&logoColor=white" title="Platzi @juansacdev"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -60,23 +60,21 @@
 <p>I love develop personal projects cause I want to improve my technical skills and learn new stuff in the process.</p>
 
 + **Consultufy**
-    + [Repository **Frontend**](https://github.com/platzi-master-captone-team/front-end)
-    + [Repository **Backend**](https://github.com/platzi-master-captone-team/back-end)
-    + [**Demo**](https://www.consultify.online/)
+    + <a href="https://github.com/platzi-master-captone-team/front-end" target="_blank">Repository <strong>Frontend</strong></a>
+    + <a href="https://github.com/platzi-master-captone-team/back-end" target="_blank">Repository <strong>Backend</strong></a>
+    + <a href="https://www.consultify.online/" target="_blank"><strong>Demo</strong></a>
 
 </br>
 
 + **Ping Pong Tracker**
-    + [**Repository**](https://github.com/juansacdev/test-ping-pong)
-    + [**Demo**](https://arvolution-test.herokuapp.com/)
+    + <a href="https://github.com/juansacdev/test-ping-pong" target="_blank"><strong>Repository</strong></a>
+    + <a href="https://arvolution-test.herokuapp.com/" target="_blank"><strong>Demo</strong></a>
 
 </br>
 
 + **Chess Multiplayer Online**
-    + [**Repository**](https://github.com/juansacdev/chess.js)
-    + [**Demo**](https://chess-js.vercel.app/)
-
-
+    + <a href="https://github.com/juansacdev/chess.js" target="_blank"><strong>Repository</strong></a>
+    + <a href="https://chess-js.vercel.app/" target="_blank"><strong>Demo</strong></a>
 
 ***
 
