@@ -59,24 +59,28 @@
 
 <p>I love develop personal projects cause I want to improve my technical skills and learn new stuff in the process.</p>
 
-+ **Consultufy**
++ **Consultufy** as **Backend**
     + <a href="https://github.com/platzi-master-captone-team/front-end" target="_blank"><strong>Frontend</strong> Repository</a>
     + <a href="https://github.com/platzi-master-captone-team/back-end" target="_blank"><strong>Backend</strong> Repository</a>
     + <a href="https://www.consultify.online/" target="_blank"><strong>Demo</strong></a>
+    + <a href="https://github.com/platzi-master-captone-team/front-end#librerías" target="_blank"><strong>Technologies</strong></a>
     + <strong>Description:</strong> The final project in Platzi Master, developed by two frontend developers three backend developers and one data scientist.
 
 </br>
 
-+ **Ping Pong Tracker**
++ **Ping Pong Tracker** as **Backend & Frontend**
     + <a href="https://github.com/juansacdev/test-ping-pong" target="_blank"><strong>Repository</strong></a>
     + <a href="https://arvolution-test.herokuapp.com/" target="_blank"><strong>Demo</strong></a>
+    + <strong>Technologies:</strong> Nodejs | MongoDB (Mongoose) | Handlebars | Bootstrap 
     + <strong>Description:</strong> I really like ping pong, and I believe that a tracking system for games will be a huge success.
 
 </br>
 
-+ **Chess Multiplayer Online**
-    + <a href="https://github.com/juansacdev/chess.js" target="_blank"><strong>Repository</strong></a>
++ **Chess Multiplayer Online** as **Backend & Frontend**
+    + <a href="https://github.com/juansacdev/chess.js" target="_blank"><strong>Frontend</strong> Repository</a>
+    + <a href="https://github.com/juansacdev/chessjs-server" target="_blank"><strong>Backend</strong> Repository</a>
     + <a href="https://chess-js.vercel.app/" target="_blank"><strong>Demo</strong></a>
+    + <strong>Technologies:</strong> Nodejs | Sockets | HTML | Bootstrap | Javascript (Vanilla)
     + <strong>Description:</strong> Personal project in Platzi Master. Multiplayer and online game in real time.
 
 ***
