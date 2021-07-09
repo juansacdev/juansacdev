@@ -1,4 +1,4 @@
- <a href="https://linkedin.com/in/juansacdev" target="_blank" ><img src="https://user-images.githubusercontent.com/66572419/124700112-c4f68500-deb1-11eb-99c2-75c2321c0729.png" title="Juan Agudelo | Software Developer | @juansacdev" /></a>
+ <a href="https://linkedin.com/in/juansacdev" target="_blank" ><img src="https://user-images.githubusercontent.com/66572419/125141422-a6270700-e0da-11eb-868c-a8e1b667b394.gif" title="Juan Agudelo | Software Developer | @juansacdev" /></a>
 
 <h1 align="center"> Hi there 👋🏻, I'm Juan 👨🏻‍💻</h1>
 
