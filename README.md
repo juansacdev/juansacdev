@@ -3,10 +3,10 @@
 <h1 align="center"> Hi there 👋🏻, I'm Juan 👨🏻‍💻</h1>
 
 <p>
-  Software developer focused on backend development, well-versed in technologies like Javascript, NodeJS, GraphQL, MongoDB, MySQL, and more. I create awesome solutions  that help make people's daily lives easier. I continuously pursue more skills and I share my knowledge a cross communities. I'm a self-taught person with great passion for learning and sharing knowledge. Always learning something new 🚀📚
+  Software developer focused on backend development, well-versed in technologies like Javascript, NodeJS, GraphQL, MongoDB, MySQL, and more. I create awesome solutions  that help make people's daily lives easier. I continuously pursue more skills and I share my knowledge across communities. I'm a self-taught person with great passion for learning and sharing knowledge. Always learning something new 🚀📚
   <ul>
     <li>Also, I'm a co-organizer at <strong><a href="https://www.macaotech.com/" target="_blank">MacaoTech</a></strong></li>
-    <li>You can contact me via mail: <strong><a href="mailto:juansac.me@gmail.com?subject=Hola%20Juan">juansac.me@gmail.com</a></strong></li>
+    <li>You can contact me via mail at: <strong><a href="mailto:juansac.me@gmail.com?subject=Hola%20Juan">juansac.me@gmail.com</a></strong></li>
     <li>Currently working as Backend Developer in <strong><a href="https://arvolution.com/en/home/" target="_blank" >Arvolution</a></strong> using NodeJS and GraphQL</li>
   </ul>
 </p>
@@ -57,14 +57,14 @@
 
 <h2 align="center"> Recent Projects 🚀</h2>
 
-<p>I love develop personal projects cause I want to improve my technical skills and learn new stuff in the process.</p>
+<p>I love to develop personal projects cause I want to improve my technical skills and learn new stuff in the process.</p>
 
 + **Consultufy** as **Backend**
     + <a href="https://github.com/platzi-master-captone-team/front-end" target="_blank"><strong>Frontend</strong> Repository</a>
     + <a href="https://github.com/platzi-master-captone-team/back-end" target="_blank"><strong>Backend</strong> Repository</a>
     + <a href="https://www.consultify.online/" target="_blank"><strong>Demo</strong></a>
     + <a href="https://github.com/platzi-master-captone-team/front-end#librerías" target="_blank"><strong>Technologies</strong></a>
-    + <strong>Description:</strong> The final project in Platzi Master, developed by two frontend developers three backend developers and one data scientist.
+    + <strong>Description:</strong> The final project in Platzi Master, developed by two frontend developers, three backend developers, and one data scientist.
 
 </br>
 
@@ -81,7 +81,7 @@
     + <a href="https://github.com/juansacdev/chessjs-server" target="_blank"><strong>Backend</strong> Repository</a>
     + <a href="https://chess-js.vercel.app/" target="_blank"><strong>Demo</strong></a>
     + <strong>Technologies:</strong> Nodejs | Sockets | HTML | Bootstrap | Javascript (Vanilla)
-    + <strong>Description:</strong> Personal project in Platzi Master. Multiplayer and online game in real time.
+    + <strong>Description:</strong> Personal project in Platzi Master. A chess game online multiplayer in real-time.
 
 ***
 
