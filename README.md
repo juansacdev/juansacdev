@@ -5,7 +5,7 @@
 <p>
   Software developer focused on backend development, well-versed in technologies like Javascript, NodeJS, GraphQL, MongoDB, MySQL, and more. I create awesome solutions  that help make people's daily lives easier. I continuously pursue more skills and I share my knowledge across communities. I'm a self-taught person with great passion for learning and sharing knowledge. Always learning something new 🚀📚
   <ul>
-    <li>Also, I'm a co-organizer at <strong><a href="https://www.macaotech.com/" target="_blank">MacaoTech</a></strong></li>
+    <li>Also, I'm a co-organizer at <strong><a href="https://www.macaotech.com/" target="_blank">MacaoTech</a></strong> community</li>
     <li>You can contact me via mail at: <strong><a href="mailto:juansac.me@gmail.com?subject=Hola%20Juan">juansac.me@gmail.com</a></strong></li>
     <li>Currently working as Backend Developer in <strong><a href="https://arvolution.com/en/home/" target="_blank" >Arvolution</a></strong> using NodeJS and GraphQL</li>
   </ul>
