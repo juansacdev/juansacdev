@@ -24,7 +24,7 @@
 <h2 align="center"> 🛠 Skills & Technologies 🧑‍💻</h2>
 
 <p><strong> Frontend Skills </strong></p>
-<p> 
+<p>
     <img src="https://img.shields.io/badge/HTML5-%23404d59?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/CSS-%23404d59?style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/_-Bootstrap-%23404d59?style=for-the-badge&logo=bootstrap&logoColor=white" />&nbsp;&nbsp;
@@ -33,13 +33,13 @@
 
 <p> <strong>Programming Languages, Environments & Frameworks </strong></p>
 
-<p> 
-    <img src="https://img.shields.io/badge/TypeScript-%23404d59?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Nodejs-%23404d59?style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Graphql-%23404d59?&style=for-the-badge&logo=graphql&logoColor=white" />&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Python-%23404d59?style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Javascript-%23404d59?style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Express-%23404d59.svg?&style=for-the-badge&logo=express&logoColor=%2361DAFB" />&nbsp;&nbsp;
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-%23404d59?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Nodejs-%23404d59?style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Graphql-%23404d59?&style=for-the-badge&logo=graphql&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Python-%23404d59?style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Javascript-%23404d59?style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Express-%23404d59.svg?&style=for-the-badge&logo=express&logoColor=%2361DAFB" />&nbsp;&nbsp;
 </p>
 
 <p><strong>Testing</strong></p>
