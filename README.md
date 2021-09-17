@@ -16,7 +16,7 @@
   <a href="https://twitter.com/juansacdev" target="_blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" title="Twitter @juansacdev" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/juansacdev" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn @juansacdev"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://platzi.com/@juansacdev/" target="_blank"><img src="https://img.shields.io/badge/Platzi-98CA3F.svg?&style=for-the-badge&logo=platzi&logoColor=white" title="Platzi @juansacdev"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://juansacdev.github.io/" target="_blank"><img src="https://img.shields.io/badge/-Web%20site-green?style=for-the-badge&logo=buddy&logoColor=white" title="Juan Sebastián Agudelo"/></a>
+  <a href="https://juansacdev.github.io/" target="_blank"><img src="https://img.shields.io/badge/-Web%20site-white?style=for-the-badge&logo=buddy&logoColor=black" title="Juan Sebastián Agudelo"/></a>
 </p>
 
 ***
