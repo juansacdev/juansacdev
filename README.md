@@ -1,6 +1,7 @@
- <a href="https://linkedin.com/in/juansacdev" target="_blank" ><img src="https://user-images.githubusercontent.com/66572419/125141854-c5726400-e0db-11eb-8cd8-2f8e5b463873.gif" title="Juan Agudelo | Software Developer | @juansacdev" /></a>
+ <a href="https://linkedin.com/in/juansacdev" target="_blank" ><img src="https://user-images.githubusercontent.com/66572419/153992219-0ee9d8a8-1ae9-4738-8392-b5a076f6b2b7.gif" title="Juan Agudelo | Software Developer | @juansacdev" /></a>
 
-<h1 align="center"> Hi there 👋🏻, I'm Juan 👨🏻‍💻</h1>
+
+<h1 align="center"> Hi there 👋🏻, I'm Juanse 👨🏻‍💻</h1>
 
 <p>
   Software developer focused on backend development, well-versed in technologies like Javascript, NodeJS, GraphQL, MongoDB, MySQL, and more. I create awesome solutions  that help make people's daily lives easier. I continuously pursue more skills and I share my knowledge across communities. I'm a self-taught person with great passion for learning and sharing knowledge. Always learning something new 🚀📚
@@ -23,52 +24,51 @@
 
 <h2 align="center"> 🛠 Skills & Technologies 🧑‍💻</h2>
 
-<p><strong> Frontend Skills </strong></p>
+<!-- <p><strong> Frontend Skills </strong></p> -->
 <p>
     <img src="https://img.shields.io/badge/HTML5-%23404d59?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/CSS-%23404d59?style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/_-Bootstrap-%23404d59?style=for-the-badge&logo=bootstrap&logoColor=white" />&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Javascript-%23404d59?style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
-</p>
+<!-- </p> -->
 
-<p> <strong>Programming Languages, Environments & Frameworks </strong></p>
+<!-- <p> <strong>Programming Languages, Environments & Frameworks </strong></p> -->
 
-<p>
+<!-- <p> -->
   <img src="https://img.shields.io/badge/TypeScript-%23404d59?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Nodejs-%23404d59?style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Graphql-%23404d59?&style=for-the-badge&logo=graphql&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Python-%23404d59?style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Javascript-%23404d59?style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Express-%23404d59.svg?&style=for-the-badge&logo=express&logoColor=%2361DAFB" />&nbsp;&nbsp;
-</p>
+<!-- </p> -->
 
-<p><strong>Testing</strong></p>
-<p>
+<!-- <p><strong>Testing</strong></p> -->
+<!-- <p> -->
   <img src="https://img.shields.io/badge/Jest-%23404d59?&style=for-the-badge&logo=jest&logoColor=white" />&nbsp;&nbsp;
-</p>
+<!-- </p> -->
 
-<p><strong> Databases </strong></p>
-<p align="">
+<!-- <p><strong> Databases </strong></p> -->
+<!-- <p align=""> -->
   <img src="https://img.shields.io/badge/MySQL-%23404d59?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/MongoDB-%23404d59?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Firebase-%23404d59?style=for-the-badge&logo=firebase&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/PostgreSQL-%23404d59?style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp;&nbsp;
-</p>
+<!-- </p> -->
 
-<p><strong>Version Control</strong></p>
-<p align="">
+<!-- <p><strong>Version Control</strong></p> -->
+<!-- <p align=""> -->
   <img src="https://img.shields.io/badge/Git%20-%23404d59?style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/GitHub%20-%23404d59?style=for-the-badge&logo=github&logoColor=white" />&nbsp;&nbsp;
-</p>
+<!-- </p> -->
 
-<p><strong> Others </strong></p>
-<p>
+<!-- <p><strong> Others </strong></p> -->
+<!-- <p> -->
   <img src="https://img.shields.io/badge/docker-%23404d59.svg?style=for-the-badge&logo=docker&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/heroku-%23404d59.svg?style=for-the-badge&logo=heroku&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Postman-%23404d59?style=for-the-badge&logo=postman&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Swagger-%23404d59?&style=for-the-badge&logo=swagger&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Linux-%23404d59?style=for-the-badge&logo=linux&logoColor=white" />&nbsp;&nbsp;
- 
 </p>
 
 
