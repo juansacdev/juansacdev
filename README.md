@@ -22,7 +22,7 @@
 
 ***
 
-<h2 align="center"> 🛠 Skills & Technologies 🧑‍💻</h2>
+<h2 align="center"> 🛠 Some technologies I use🧑‍💻</h2>
 
 <!-- <p><strong> Frontend Skills </strong></p> -->
 <p>
