@@ -8,7 +8,7 @@
   <ul>
     <li>Also, I'm a co-organizer at <strong><a href="https://www.macaotech.com/" target="_blank">MacaoTech</a></strong> community</li>
     <li>You can contact me via mail at: <strong><a href="mailto:juansac.me@gmail.com?subject=Hola%20Juan">juansac.me@gmail.com</a></strong></li>
-    <li>Currently working as Backend Developer in <strong><a href="https://condorlabs.io/" target="_blank" >Condor Labs</a></strong></li>
+    <li>Currently working as Software Engineer at <strong><a href="https://minteo.com/" target="_blank">Minteo</a></strong></li>
   </ul>
 </p>
 </br>
