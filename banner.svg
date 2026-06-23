@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 380" width="1200" height="380" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Monaco, 'Cascadia Code', 'Roboto Mono', monospace">
+  <!-- window background (title bar tone) -->
+  <rect x="0" y="0" width="1200" height="380" rx="14" fill="#161b22"/>
+  <!-- terminal body -->
+  <path d="M0,48 H1200 V366 Q1200,380 1186,380 H14 Q0,380 0,366 Z" fill="#0d1117"/>
+  <!-- outer border -->
+  <rect x="0.5" y="0.5" width="1199" height="379" rx="14" fill="none" stroke="#30363d" stroke-width="1"/>
+
+  <!-- traffic lights -->
+  <circle cx="30" cy="24" r="6.5" fill="#ff5f56"/>
+  <circle cx="54" cy="24" r="6.5" fill="#ffbd2e"/>
+  <circle cx="78" cy="24" r="6.5" fill="#27c93f"/>
+  <!-- title -->
+  <text x="600" y="29" text-anchor="middle" font-size="14" fill="#8b949e">juansac@dev — zsh</text>
+
+  <!-- line 1: whoami -->
+  <text x="32" y="108" font-size="22">
+    <tspan fill="#3fb950">juansac@dev</tspan><tspan fill="#58a6ff"> ~ </tspan><tspan fill="#8b949e">% </tspan><tspan fill="#e6edf3">whoami</tspan>
+  </text>
+  <text x="32" y="150" font-size="23">
+    <tspan fill="#6e7681">→ </tspan><tspan fill="#e6edf3" font-weight="700">Juan Sebastián Agudelo</tspan><tspan fill="#6e7681">  ·  </tspan><tspan fill="#3fb950" font-weight="700">Backend → AI Engineer</tspan>
+  </text>
+
+  <!-- line 2: stack -->
+  <text x="32" y="214" font-size="22">
+    <tspan fill="#3fb950">juansac@dev</tspan><tspan fill="#58a6ff"> ~ </tspan><tspan fill="#8b949e">% </tspan><tspan fill="#e6edf3">cat stack.txt</tspan>
+  </text>
+  <text x="32" y="256" font-size="22">
+    <tspan fill="#6e7681">→ </tspan><tspan fill="#79c0ff">Python</tspan><tspan fill="#6e7681"> · </tspan><tspan fill="#79c0ff">TypeScript</tspan><tspan fill="#6e7681"> · </tspan><tspan fill="#79c0ff">LLMs / ML</tspan><tspan fill="#6e7681"> · </tspan><tspan fill="#79c0ff">PostgreSQL</tspan><tspan fill="#6e7681"> · </tspan><tspan fill="#79c0ff">Docker</tspan>
+  </text>
+
+  <!-- line 3: now -->
+  <text x="32" y="320" font-size="22">
+    <tspan fill="#3fb950">juansac@dev</tspan><tspan fill="#58a6ff"> ~ </tspan><tspan fill="#8b949e">% </tspan><tspan fill="#e6edf3">echo $NOW</tspan>
+  </text>
+  <text x="32" y="362" font-size="22">
+    <tspan fill="#6e7681">→ </tspan><tspan fill="#e6edf3">Building AI systems on top of real-world infrastructure</tspan><tspan fill="#3fb950" font-weight="700"> ▮<animate attributeName="opacity" values="1;1;0;0" dur="1.06s" repeatCount="indefinite"/></tspan>
+  </text>
+</svg>
